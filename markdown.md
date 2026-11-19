@@ -35,3 +35,15 @@ Este es un _**ejemplo de combinación**_
 3. Lewis Hamilton
 4. Charles Leclerc
 5. Fernando Alonso
+
+# Ejemplo de lista con varios niveles: Planetas y sus lunas
+
+* Tierra
+  * Luna
+* Júpiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titán
