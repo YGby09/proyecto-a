@@ -49,7 +49,14 @@ Este es un _**ejemplo de combinación**_
   * Titán
 
 # Ejemplo checklist
-- [ ] sacar la cita
-- [ ] Pagar los derechos
-- [ ] Asistir a la cita y tomarse foto
+- [X] sacar la cita
+- [X] Pagar los derechos
+- [X] Asistir a la cita y tomarse foto
 - [ ] Esperar a que salga el pasaporte
+
+# Ejemplo de citaci[on
+
+Mis estudiantes dijeron
+>Profe, ya compró el GTA VI?
+>Por qué no?
+>Si es un juego buenisimo!
