@@ -47,3 +47,9 @@ Este es un _**ejemplo de combinación**_
   * Io
 * Saturno
   * Titán
+
+# Ejemplo checklist
+- [ ] sacar la cita
+- [ ] Pagar los derechos
+- [ ] Asistir a la cita y tomarse foto
+- [ ] Esperar a que salga el pasaporte
