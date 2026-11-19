@@ -60,3 +60,23 @@ Mis estudiantes dijeron
 >Profe, ya compró el GTA VI?
 >Por qué no?
 >Si es un juego buenisimo!
+
+#Snippets de código
+
+Código en Python
+```python
+print("Hola")
+print("Este es un ejemplo de código de Python")
+```
+Código en Powershell
+```powershell
+Remove-Item -Recurse hola.txt
+```
+# Ejemplo de tabla: Tabla de verdad del XOR
+
+A | B | A XOR B
+--|---|---------
+1 | 1 | 0
+1 | 0 | 1
+0 | 1 | 1
+0 | 0 | 0
